@@ -2,7 +2,7 @@
   "generator-react-webpack": {
     "appName": "gallaryByReact",
     "style": "less",
-    "postcss": false,
+    "postcss": true,
     "generatedWithVersion": 3
   }
 }
