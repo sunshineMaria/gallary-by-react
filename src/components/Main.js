@@ -4,6 +4,7 @@ require('styles/App.less');
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+alert(1)
 //获取图片相关的数据
 var imageDatas = require("../data/imageDatas.json");
 
